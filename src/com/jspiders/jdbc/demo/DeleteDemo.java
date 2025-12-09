@@ -23,6 +23,6 @@ public class DeleteDemo {
             e.printStackTrace();
             System.out.println("Unable to connect to appusers-db...");
         }
-        System.out.println("Program ends...");
+        System.out.println("Program ends...in dinga branch");
     }
 }
